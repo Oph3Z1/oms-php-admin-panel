@@ -121,9 +121,7 @@ This project focuses heavily on secure PHP coding patterns:
 
 ---
 
-## Roadmap / Planned Enhancements
-
-> (not implemented but considered for growth)
+## Future Expansion Ideas
 
 - Product images
 - CSV/PDF export
