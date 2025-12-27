@@ -1,6 +1,6 @@
 # OMS – Order Management System (PHP + MySQL + TailwindCSS)
 
-A fully functional **Order Management System** built with **pure PHP**, **MySQL**, and **TailwindCSS** — designed as a **portfolio project** to demonstrate backend logic, authentication flow, session handling, CRUD operations, and secure database interaction without frameworks.
+A fully functional **Order Management System** built with **pure PHP**, **MySQL**, and **TailwindCSS**, designed as a portfolio project to demonstrate backend logic, authentication flow, session handling, CRUD operations, and secure database interaction without frameworks.
 
 This application includes a complete admin interface for managing **products, customers, and orders**, with authentication, profile management, and a clean modern UI.
 
