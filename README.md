@@ -102,12 +102,12 @@ This project focuses heavily on secure PHP coding patterns:
 
 ## What this project demonstrates
 
-✔ Real authentication & session logic  
-✔ Secure database interaction with prepared statements  
-✔ CRUD patterns without frameworks  
-✔ Structured PHP code organization  
-✔ UI development with TailwindCSS  
-✔ Full-stack skills suitable for production-style apps  
+- Real authentication & session logic  
+- Secure database interaction with prepared statements  
+- CRUD patterns without frameworks  
+- Structured PHP code organization  
+- UI development with TailwindCSS  
+- Full-stack skills suitable for production-style apps  
 
 ---
 
